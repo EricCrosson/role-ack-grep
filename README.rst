@@ -5,6 +5,11 @@ This role installs sensible ack defaults described by shuttlethread_.
 
 .. _shuttlethread: http://shuttlethread.com/blog/useful-ack-defaults
 
+Currently Supports
+------------------
+
+This role only currently supports :code:`apt` based systems (i.e. Ubuntu).
+
 Example Playbook
 ----------------
 
